@@ -18,7 +18,7 @@ This project was developed as a team collaboration. I was specifically responsib
   <summary>Click to view Overview Dashboard</summary>
   <br>
   <img src="./img/My_Dashboard_1_Overview.png" width="600">
-  </details>
+</details>
 
 ### **2. Sales & Profit Dashboard Analysis**
 
